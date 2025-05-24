@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/sagorsaha033?label=Followers&style=social)
+
 <!-- Banner -->
 <img src="https://github.com/sagorsaha033/sagorsaha033/blob/main/github%20banner.jpg" alt="Banner" width="100%" />
 
